@@ -11,4 +11,15 @@ entries:
     urls:
     - assets/OVERRIDE_HELM_CHART_NAME_HERE/OVERRIDE_HELM_CHART_NAME_HERE-0.0.101+up0.0.1.tgz
     version: 0.0.101+up0.0.1
+  helloworld:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-10-11T16:19:34.617671393Z"
+    description: Helloworld Helm chart for Kubernetes
+    digest: c8faa9acddaf3300acd6a1311433a2cc1475572bfe005076bed053c1ee3cb4b8
+    name: helloworld
+    type: application
+    urls:
+    - assets/helloworld/helloworld-0.0.101+up0.0.1.tgz
+    version: 0.0.101+up0.0.1
 generated: "2022-10-11T16:15:21.93373315Z"
