@@ -1,5 +1,5 @@
 validate:
-  url: https://github.com/rancher/charts.git
+  url: https://github.com/berndonline/k8s-charts.git
   branch: main
 
 helmRepo:
