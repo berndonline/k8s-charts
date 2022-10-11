@@ -2,6 +2,6 @@ validate:
   url: https://github.com/berndonline/k8s-charts.git
   branch: main
 
-# helmRepo:
-#  cname: charts.hostgate.net
+helmRepo:
+  cname: berndonline.github.io/k8s-charts/
 
