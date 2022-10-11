@@ -1,0 +1,17 @@
+--- charts-original/values.yaml
++++ charts/values.yaml
+@@ -1,4 +1,4 @@
+-replicaCount: 1
++replicaCount: 2
+ 
+ image:
+   repository: ghcr.io/berndonline/k8s/go-helloworld
+@@ -27,7 +27,7 @@
+   port: 80
+ 
+ ingress:
+-  enabled: false
++  enabled: true
+   className: ""
+   annotations:
+     kubernetes.io/ingress.class: nginx

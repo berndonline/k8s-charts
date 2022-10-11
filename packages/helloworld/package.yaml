@@ -1,0 +1,4 @@
+url: https://github.com/berndonline/go-helloworld.git
+commit: 2c2e19a2403bd79abe49609db37516988b77d1f6 
+subdirectory: deploy/charts/helloworld
+packageVersion: 01
