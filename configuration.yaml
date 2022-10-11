@@ -1,7 +1,7 @@
 validate:
   url: https://github.com/rancher/charts.git
-  branch: release-v2.6
+  branch: main
 
 helmRepo:
-  cname: charts.rancher.io
+  cname: charts.hostgate.net
 
