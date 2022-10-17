@@ -1,5 +1,0 @@
-HelmRepo: https://k8s-charts.hostgate.net
-HelmChart: helloworld
-Vendor: Techbloc.net
-DisplayName: Helloworld
-PackageVersion: 01
